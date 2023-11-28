@@ -35,7 +35,6 @@ func main() {
 			}
 			ls(dir)
 		}
-
 	}
 }
 
